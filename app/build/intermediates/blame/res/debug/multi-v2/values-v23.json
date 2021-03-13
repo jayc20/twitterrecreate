@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jasen\\Desktop\\android development course\\Simpletweets2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\jasen\\Desktop\\android development course\\Simpletweets2\\twitterrecreate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jasen\\.gradle\\caches\\transforms-2\\files-2.1\\87b306f7e00e95db482f5183600a49ce\\appcompat-1.2.0\\res\\values-v23\\values-v23.xml",
