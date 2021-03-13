@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Simpletweets2.iml" filepath="$PROJECT_DIR$/Simpletweets2.iml" group="Simpletweets2" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Simpletweets2/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="twitterrecreate/app" />
+      <module fileurl="file://$PROJECT_DIR$/twitterrecreate.iml" filepath="$PROJECT_DIR$/twitterrecreate.iml" group="twitterrecreate" />
     </modules>
   </component>
 </project>
