@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jasen\\Desktop\\android development course\\Simpletweets2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+            "outputFile": "C:\\Users\\jasen\\Desktop\\android development course\\Simpletweets2\\twitterrecreate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jasen\\.gradle\\caches\\transforms-2\\files-2.1\\a76373c060799c20e21d32fd437f9864\\core-1.3.1\\res\\values-ka\\values-ka.xml",
